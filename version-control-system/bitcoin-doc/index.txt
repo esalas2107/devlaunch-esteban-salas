@@ -13,3 +13,13 @@ Otra característica importante es su oferta limitada: solo existirán 21 millon
 Sin embargo, Bitcoin también enfrenta desafíos. Su precio es altamente volátil, lo que genera incertidumbre para quienes desean usarlo como moneda de uso diario. Además, ha sido objeto de críticas por su uso en actividades ilícitas y por el impacto ambiental de la minería, que consume grandes cantidades de energía.
 
 A pesar de estos retos, Bitcoin ha impulsado un movimiento global hacia sistemas financieros más abiertos, transparentes y resistentes a la censura. Su desarrollo continúa influyendo en nuevas tecnologías y modelos económicos alrededor del mundo.
+
+Claro, aquí tienes una conclusión que puedes añadir al final del documento:
+
+Bitcoin ha marcado un antes y un después en la historia del dinero y la tecnología. 
+
+Al proponer un sistema financiero descentralizado, basado en la confianza matemática y no en intermediarios, ha abierto la puerta a nuevas formas de entender y gestionar el valor. 
+
+Si bien aún enfrenta desafíos importantes como la volatilidad, el consumo energético y la regulación, su impacto en el mundo financiero y tecnológico es innegable. 
+
+A medida que evoluciona, Bitcoin continúa generando debate, innovación y oportunidades en todo el mundo.
