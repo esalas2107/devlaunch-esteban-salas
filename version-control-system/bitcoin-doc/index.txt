@@ -1,1 +1,6 @@
 ¿Qué es Bitcoin?
+
+**Bitcoin** es una moneda digital descentralizada creada en 2009 por una persona (o grupo) bajo el seudónimo **Satoshi Nakamoto**. 
+A diferencia de las monedas tradicionales, no está controlada por ningún gobierno o banco central. 
+Funciona mediante una tecnología llamada **blockchain** o cadena de bloques, que registra todas las transacciones de forma pública, segura y transparente. Su principal objetivo es permitir pagos directos entre personas, sin intermediarios, de manera rápida y con bajas comisiones.
+
