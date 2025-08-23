@@ -1,4 +1,4 @@
-¿Qué es Bitcoin?
+Entendiendo el nuevo oro digital (Bitcoin)
 
 **Bitcoin** es una moneda digital descentralizada creada en 2009 por una persona (o grupo) bajo el seudónimo **Satoshi Nakamoto**. 
 A diferencia de las monedas tradicionales, no está controlada por ningún gobierno o banco central. 
