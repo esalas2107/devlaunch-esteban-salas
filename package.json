@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/esalas2107/devlaunch-esteban-salas/issues"
   },
-  "homepage": "https://github.com/esalas2107/devlaunch-esteban-salas#readme"
+  "homepage": "https://github.com/esalas2107/devlaunch-esteban-salas#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
