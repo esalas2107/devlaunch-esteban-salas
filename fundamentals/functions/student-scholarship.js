@@ -4,7 +4,7 @@ La Universidad de Harvard se ha dado cuenta de que manejar manualmente los crite
 Ahora buscan una forma mejor de evaluar las numerosas solicitudes de estudiantes que reciben.
 
 El nuevo sistema que planean implementar decidirá eficientemente quién califica para las becas. Normalmente, los 
-estudiantes saben ayuydar en clases de laboratorio y aprobar cuatro materias, con sus calificaciones promediadas para
+estudiantes saben ayudar en clases de laboratorio y aprobar cuatro materias, con sus calificaciones promediadas para
 verificar la elegibilidad.
 
 Las reglas de elegibilidad son estrictas:
