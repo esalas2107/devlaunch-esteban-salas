@@ -50,3 +50,6 @@ function asignaPromocion (aplicaPromocion, superSaver, megaCharge, montoRecarga)
 }
 
 console.log(asignaPromocion(aplicaPromocion, superSaver, megaCharge, montoRecarga));
+
+// Tratar de hacer el calculo de la funcion de logica por aparte de una funcion main donde se llame a la entrada de datos
+// y a la función con la lógica dentro
