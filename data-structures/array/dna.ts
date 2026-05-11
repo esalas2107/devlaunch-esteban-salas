@@ -18,3 +18,38 @@ De igual manera, la secuencia a buscar también estará representada como una ca
 nucleótidos (por ejemplo, "gtt")
 
 */
+
+const dna: string = "gtggggggtttatgcctttagaacagcag";
+
+const isInDNA = (dna: string, sequence: string) => {
+    const dnaArray = dna.split("");
+    const sequenceArray = sequence.split("");
+
+    for(let i=0; i < dna.length; i++) {
+        if(dnaArray[i] === sequenceArray[0] && dnaArray[i + 1] === sequenceArray[1] && dnaArray[i + 2] === sequenceArray[2]) {
+            return true
+        } 
+    }
+
+    return false;
+}
+
+console.log(isInDNA(dna, "aga"));
+
+/* Anthony solution
+
+const dna: string = "gtggggggtttatgcctttagaacagcag";
+
+const subsequence: string = "aga"
+
+const isInDNA = (dna: string, sequence: string): boolean => {
+    for (let i = 0; i <= dna.length - sequence.length; i++) {
+        sequence = dna.slice(i, i + match.length)
+        if(subsequence === match) return true
+    }
+    return false;
+};
+
+console.log(isInDNA(dna, subsequence)); // true
+
+*/
