@@ -22,3 +22,44 @@ calculateDiscount([3000,1000,2000], 2)
 {total: 5400, subtotal: 6000, discount: 600}
 
 */
+
+const calculateDiscount = (products: number[], n: number, discount: number = 0.20) => {
+    const tidyArray = products.sort();
+
+    if (n <= tidyArray.length) {
+        let discountTotal = 0;
+        for (let i = 0; i + n <= tidyArray.length; i += n) {
+            const block = tidyArray.slice(i, i + n);
+
+            for (let j = 0; j < block.length; j++) {
+                discountTotal += block[j] * discount;
+                block[j] = block[j] - (block[j] * discount)
+                tidyArray[i + j] = block[j];
+            }
+
+            discount /= 2;
+            discount = Number(discount.toFixed(2));
+        }
+        let total: number = 0;
+        for(let i=0; i < tidyArray.length; i++) {
+            total += tidyArray[i];
+        }
+        return {
+            total: total,
+            subtotal: total + discountTotal,
+            discount: discountTotal
+        }
+    } else {
+        let total: number = 0;
+        for (let i = 0; i < tidyArray.length; i++) {
+            total += tidyArray[i];
+        }
+        return {
+            total: total,
+            subtotal: total,
+            discount: 0
+        }
+    }
+}
+
+console.log(calculateDiscount([5000, 1000, 3000, 2000, 4000, 6000, 7000, 8000], 4));
