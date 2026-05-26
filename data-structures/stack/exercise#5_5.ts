@@ -84,4 +84,8 @@ function simplifiedCanonicalPath(path: string) {
 
 }
 
+console.log(simplifiedCanonicalPath("/home/"));
+console.log(simplifiedCanonicalPath("/home//foo/"));
+console.log(simplifiedCanonicalPath("/home/user/Documents/../Pictures"));
+console.log(simplifiedCanonicalPath("/../"));
 console.log(simplifiedCanonicalPath("/.../a/../b/c/../d/./"));
