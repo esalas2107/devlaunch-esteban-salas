@@ -1,0 +1,23 @@
+Proporcina una explicación detallada de un archivo .txt
+de las acciones que realizarías al prepararte para conducir un coche automático.
+
+Este ejercicio está diseñado para ayudarte a entender los conceptos 
+básicos de los algoritmos al darte un ejemplo del mundo real sobre cómo llevar tu 
+coche a dar un paseo
+
+SOLUCIÓN:
+
+1- recoger las llaves 
+2- ir al garaje
+3- desbloquear el seguro del carro
+4- montarme al carro
+5- ponerme el cinturón de seguridad
+6- verificar que esté en la marcha P (parking)
+7- quitar el freno de marcha
+8- cambiar la marcha del carro a N (neutro)
+9- encender el carro
+10- dependiendo de como este posicionado el carro, cambiar a la marcha
+D (drive) o R (reverse)
+11- sacar el carro y posicionarlo sobre la carretera o carril en el que esté
+12- eligir un  destino
+13- dirigirme hacia el destino

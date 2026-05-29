@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "lib": ["es6", "dom", "es2016"],
+        "module": "Commonjs",
+        "target": "es6",
+        "forceConsistentCasingInFileNames": true,
+        "strict": true,
+        "esModuleInterop": true,
+        "types": ["node"]
+    }
+}

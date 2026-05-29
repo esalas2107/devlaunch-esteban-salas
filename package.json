@@ -1,0 +1,27 @@
+{
+  "name": "devlaunch-esteban-salas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esalas2107/devlaunch-esteban-salas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esalas2107/devlaunch-esteban-salas/issues"
+  },
+  "homepage": "https://github.com/esalas2107/devlaunch-esteban-salas#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.8.0",
+    "@types/prompt-sync": "^4.2.3"
+  }
+}
