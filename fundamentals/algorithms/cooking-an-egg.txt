@@ -1,0 +1,15 @@
+Proporciona una explicación detallada en un archivo.txt de las acciones que realizarías
+al cocinar un huevo.
+
+SOLUCIÓN:
+
+1- tener huevos a mano
+2- tener mantequilla a mano
+3- tomar un sartén y ponerlo en la cocina con el disco prendido 
+4- esperar a que el sartén esté caliente 
+5- poner en el sartén un poco de mantequilla y esperar a que esta se derrita
+6- poner x cantidad de huevos que querramos comer en el sartén
+7- esperar a que se vayan cocinando un poco
+8- revolverlos hasta que queden amarillos
+9- ponerles un poco de sal y pimienta al gusto
+10- servirlos en un plato
